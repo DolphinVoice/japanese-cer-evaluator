@@ -61,7 +61,7 @@ python compute_cer.py --ref examples/cer_test/ref.tsv --hyp examples/cer_test/hy
 ## 4. プロジェクト構成
 
 ```text
-ComputeCer/
+japanese-cer-evaluator/
 ├── LICENSE                 # MIT License
 ├── README.md               # Japanese documentation
 ├── README_en.md            # English documentation
