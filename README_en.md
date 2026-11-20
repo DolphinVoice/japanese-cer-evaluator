@@ -90,7 +90,7 @@ automatically.
 ## 4. Project Structure
 
 ``` text
-ComputeCer/
+japanese-cer-evaluator/
 ├── LICENSE                 # MIT License
 ├── README.md               # Japanese documentation
 ├── README_en.md            # English documentation
