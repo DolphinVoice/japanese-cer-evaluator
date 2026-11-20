@@ -1,0 +1,8 @@
+unicode_nfkc: False
+lowercase: False
+kana_to_hiragana: False
+remove_format_characters: False
+remove_whitespace: False
+remove_punctuation: False
+remove_symbols: False
+preserve_numeric_symbols: False

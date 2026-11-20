@@ -1,0 +1,18 @@
+# Set each option to True / False; apply the same rules to both reference and hypothesis.
+unicode_nfkc: True
+lowercase: True
+kana_to_hiragana: False
+remove_format_characters: True
+remove_whitespace: True
+
+# Unicode P category: Japanese punctuation, middle dots, quotation marks,
+# brackets, dashes, and other punctuation marks.
+remove_punctuation: True
+
+# Unicode S category: mathematical/currency symbols, emojis, etc.
+# Handled independently from punctuation.
+remove_symbols: False
+
+# When removing punctuation/symbols, preserve only decimal points within numbers,
+# leading plus/minus signs, and trailing percentage signs.
+preserve_numeric_symbols: True
